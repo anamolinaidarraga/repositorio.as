@@ -36,7 +36,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .img3{
-    height: 193px;
+    height: 130px;
     width: 300px;
     background-image: url("img3.jpg");
     background-repeat: no-repeat;
@@ -53,7 +53,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .img5{
-    height: 193px;
+    height: 130px;
     width: 300px;
     background-image: url("img5.jpg");
     background-repeat: no-repeat;
@@ -71,9 +71,10 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 .img6{
-    height: 193px;
-    width: 300px;
+    height: 100px;
+    width: 150px;
     background-image: url("img6.jpg");
     background-repeat: no-repeat;
     float: right;
 }
+
